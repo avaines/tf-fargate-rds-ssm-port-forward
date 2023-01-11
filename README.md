@@ -1,5 +1,8 @@
-# Terraform Fargate with Aurora Serverless instance
+# Terraform Fargate with RDS instance
 A Terraform repo to spin up a Fargate container with access to an RDS instance for demonstrating port forwarding through SSM
+
+**This repository is supported by [this blog post](https://www.vaines.org/posts/bastion-hosts-are-dead-long-live-bastion-containers/), please start there.**
+
 
 ## Usage
 
